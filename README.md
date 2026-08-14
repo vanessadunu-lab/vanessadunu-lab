@@ -19,16 +19,16 @@ You can view my experience through this link to my resume.pdf:
 
 ### 📊 Technical Skills 
 
-**Languages & Analysis:** Python, SQL  
-**Data & Visualization:** Excel, Tableau  
-**Research & Data Collection:** SPSS, Qualtrics
+- **Languages & Analysis:** Python, SQL  
+- **Data & Visualization:** Excel, Tableau  
+- **Research & Data Collection:** SPSS, Qualtrics
 
-### 💼  Projects   
+### Projects   
 
-### 📫  Connect with Me 
-LinkedIn: www.linkedin.com/in/vanessadunu324
+### Connect with Me 
+- LinkedIn: www.linkedin.com/in/vanessadunu324
 
-Email: vanessa.dunu@gmail.com
+- Email: vanessa.dunu@gmail.com
 
 <!--
 **vanessadunu-lab/vanessadunu-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
