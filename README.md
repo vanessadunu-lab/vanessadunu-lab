@@ -1,4 +1,4 @@
-## Hi, I'm Vanessa 👋
+## Hi, I'm Vanessa Dunu 👋
 
 <!--
 **vanessadunu-lab/vanessadunu-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
