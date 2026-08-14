@@ -23,9 +23,9 @@ You can view my experience through this link to my resume.pdf:
 **Data & Visualization:** Excel, Tableau  
 **Research & Data Collection:** SPSS, Qualtrics
 
-### 💼 Projects   
+### 💼  Projects   
 
-### 📫 Connect with Me 
+### 📫  Connect with Me 
 LinkedIn: www.linkedin.com/in/vanessadunu324
 
 Email: vanessa.dunu@gmail.com
