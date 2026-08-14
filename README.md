@@ -1,4 +1,9 @@
-## Hi, I'm Vanessa Dunu 👋
+# Vanessa Dunu - Data Analyst Portfolio
+## About
+
+Hi, I'm Vanessa and welcome to my portfolio!
+
+
 
 <!--
 **vanessadunu-lab/vanessadunu-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
