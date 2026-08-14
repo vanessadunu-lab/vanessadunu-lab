@@ -27,6 +27,7 @@ You can view my experience through this link to my resume.pdf:
 
 ### Connect with Me
 LinkedIn: www.linkedin.com/in/vanessadunu324
+
 Email: vanessa.dunu@gmail.com
 
 <!--
