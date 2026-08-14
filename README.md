@@ -1,5 +1,5 @@
 # Vanessa Dunu - Data Analyst Portfolio
-## About ☀️
+## ☀️ About
 
 Hi, I'm Vanessa and welcome to my portfolio!  
 
@@ -10,22 +10,22 @@ scientific background with data-driven problem solving.
 
 You can view my experience through this link to my resume.pdf: 
 
-## What I'm Working On 🌱
+### 🌱 What I'm Working On
 
 - Building data analytics projects with a focus on healthcare
 - Developing my skills in Python, SQL, Excel, and Tableau
 - Improving data visualization and storytelling
 - Exploring how data can be used to support healthcare decision-making
 
-## Technical Skills 📊
+### 📊 Technical Skills 
 
 **Languages & Analysis:** Python, SQL  
 **Data & Visualization:** Excel, Tableau  
 **Research & Data Collection:** SPSS, Qualtrics
 
-## Projects 💼  
+### 💼 Projects   
 
-### Connect with Me 📫
+### 📫 Connect with Me 
 LinkedIn: www.linkedin.com/in/vanessadunu324
 
 Email: vanessa.dunu@gmail.com
