@@ -8,7 +8,7 @@ transitioning into healthcare data analytics. I'm developing my skills in
 Python, SQL, Excel, and Tableau while building projects that combine my
 scientific background with data-driven problem solving.
 
-**You can view my experience through this link to my resume.pdf**: 
+**You can view my experience as a pdf through this link to my resume**: 
 
 ### 🌱 What I'm Working On
 
