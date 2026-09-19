@@ -13,13 +13,13 @@ scientific background with data-driven problem solving.
 ### 🌱 What I'm Working On
 
 - Building data analytics projects with a focus on healthcare
-- Developing my skills in Python, SQL, Excel, and Tableau
+- Developing my skills in Python, PostgreSQL, Excel, and Tableau
 - Improving data visualization and storytelling
 - Exploring how data can be used to support healthcare decision-making
 
 ### 📊 Technical Skills 
 
-- **Languages & Analysis:** Python, SQL  
+- **Languages & Analysis:** Python, PostgreSQL, Excel
 - **Data & Visualization:** Excel, Tableau  
 - **Research & Data Collection:** SPSS, Qualtrics
 
