@@ -8,7 +8,7 @@ transitioning into healthcare data analytics. I'm developing my skills in
 Python, SQL, Excel, and Tableau while building projects that combine my
 scientific background with data-driven problem solving.
 
-**You can view my experience as a pdf through this link to my resume**: 
+**You can view my experience as a pdf through this link to my resume [here.](https://github.com/vanessadunu-lab/vanessadunu-lab/blob/main/Dunu_Vanessa_Resume.pdf)** 
 
 ### 🌱 What I'm Working On
 
