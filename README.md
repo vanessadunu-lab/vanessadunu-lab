@@ -25,6 +25,8 @@ scientific background with data-driven problem solving.
 
 ### 💼 Projects   
 
+* [Home Health Agency Medicare Utilization Analysis](https://github.com/vanessadunu-lab/Home-Health-Agency-Medicare-Utilization)
+
 ### 📫 Connect with Me 
 - LinkedIn: www.linkedin.com/in/vanessadunu324
 - Email: vanessa.dunu@gmail.com
