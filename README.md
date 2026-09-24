@@ -3,7 +3,7 @@
 
 Hi, I'm Vanessa and welcome to my portfolio!  
 
-Research-trained analyst with hands-on clinical experience, building healthcare data analytics projects using **Python, SQL, Excel, and Tableau.** Combining scientific research experience with healthcare workflow knowledge to explore data, answer questions, and communicate actionable insights.
+I am a research-trained analyst with hands-on clinical experience, building healthcare data analytics projects using **Python, SQL, Excel, and Tableau.** Combining scientific research experience with healthcare workflow knowledge to explore data, answer questions, and communicate actionable insights.
 
 **You can view my experience as a pdf through this link to my resume [here.](https://github.com/vanessadunu-lab/vanessadunu-lab/blob/main/Dunu_Vanessa_Resume.pdf)** 
 
