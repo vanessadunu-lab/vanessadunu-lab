@@ -22,7 +22,7 @@ I am a research-trained analyst with hands-on clinical experience, building heal
 
 ### 💼 Projects   
 
-* [Home Health Agency Medicare Utilization Analysis](https://github.com/vanessadunu-lab/Home-Health-Agency-Medicare-Utilization)
+* [CMS Home Health Operations and Medicare Utilization Analytics](https://github.com/vanessadunu-lab/Home-Health-Agency-Medicare-Utilization)
 
 ### 📫 Connect with Me 
 - LinkedIn: www.linkedin.com/in/vanessadunu324
